@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AngeAwala">
+  <a href="https://github.com/angeawalabj">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://linkedin.com/in/AngeAwala">
@@ -20,9 +20,9 @@
 
 <!-- ========================= ABOUT ME ========================= -->
 ## 👨‍💻 À propos de moi
-- Étudiant en L3 Mathématiques Fondamentales et passionné par le développement
-- Développeur backend et applications full stack
-- Intéressé par la productivité, l'automatisation et les solutions HealthTech
+- Étudiant en L3 Mathématiques Fondamentales  
+- Développeur backend et full stack passionné par les solutions HealthTech et la productivité  
+- Intéressé par l’automatisation et les projets open source  
 
 ---
 
@@ -41,15 +41,32 @@
 
 <!-- ========================= PROJECTS ========================= -->
 ## 📂 Projets récents
-- [**CLINIK**](https://github.com/AngeAwala/CLINIK) - Application de gestion de rendez-vous médicaux pour médecins et patients
-- [**NoEx**](https://github.com/AngeAwala/NoEx) - Application de discipline numérique pour mieux gérer son temps et ses objectifs
+- [**CLINIK**](https://github.com/angeawalabj/CLINIK) - Gestion de rendez-vous médicaux pour médecins et patients  
+- [**NoEx**](https://github.com/angeawalabj/NoEx) - Application de discipline numérique pour mieux gérer son temps et ses objectifs  
 
 ---
 
 <!-- ========================= STATS ========================= -->
 ## 📊 Mes statistiques GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngeAwala&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <!-- Statistiques générales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=angeawalabj&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <!-- Langages principaux -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeawalabj&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <!-- Trophées GitHub -->
+  <img src="https://github-profile-trophy.vercel.app/?username=angeawalabj&theme=radical&no-frame=true&no-bg=false&margin-w=10" alt="Trophées GitHub"/>
+</p>
+
+<p align="center">
+  <!-- Streak de contributions -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angeawalabj&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -67,5 +84,4 @@
 
 ---
 
-<!-- ========================= FOOTER ========================= -->
 <p align="center">Merci d'avoir visité mon profil ! 😊</p>
