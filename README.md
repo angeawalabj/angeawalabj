@@ -19,11 +19,9 @@
 ---
 
 <!-- ========================= ABOUT ME ========================= -->
-## 👨‍💻 À propos de moi
-- Étudiant en L3 Mathématiques Fondamentales  
+## 👨‍💻 À propos de moi 
 - Développeur backend et full stack passionné par les solutions HealthTech et la productivité  
 - Intéressé par l’automatisation et les projets open source  
-
 ---
 
 <!-- ========================= SKILLS ========================= -->
