@@ -37,10 +37,6 @@
 
 ---
 
-<!-- ========================= PROJECTS ========================= -->
-## 📂 Projets récents
-- [**CLINIK**](https://github.com/angeawalabj/CLINIK) - Gestion de rendez-vous médicaux pour médecins et patients  
-- [**NoEx**](https://github.com/angeawalabj/NoEx) - Application de discipline numérique pour mieux gérer son temps et ses objectifs  
 
 ---
 
