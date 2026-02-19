@@ -50,9 +50,17 @@ Mon approche repose sur trois piliers :
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Javascript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hedera-000000?style=flat-square&logo=hedera&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
 </p>
+<p>
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Solana-14F195?style=flat-square&logo=solana&logoColor=black" />
+<img src="https://img.shields.io/badge/Hedera-000000?style=flat-square&logo=hedera&logoColor=white" />
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=flat-square&logo=ethers&logoColor=white" />
+</p>
+
 
 ### 🧪 Recherche & Modélisation
 <p>
@@ -75,8 +83,8 @@ Mon approche repose sur trois piliers :
 ## 📊 Analyse de Performance
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angeawalabj&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeawalabj&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-zeta-rose.vercel.app/api?username=angeawalabj&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-zeta-rose.vercel.app/api/top-langs/?username=angeawalabj&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -86,7 +94,7 @@ Mon approche repose sur trois piliers :
 ---
 ## 🚀 Réalisations & Recherche
 > **[Explorer mon Portfolio →](https://ton-lien-portfolio.com)**
-> *Découvrez mes implémentations de protocoles distribués et mes expériences de rendu 3D temps-réel.*
+> <sub><i>Cliquez ici pour explorer mes architectures et mes travaux de recherche.</i></sub>
 ---
 <p align="center">
   <b>Concevoir propre, penser scalable, coder intelligent.</b><br>
