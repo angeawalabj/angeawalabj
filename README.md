@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/ange-awala-57aa1b363/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/angeawalabj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:ange.awala.bj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://ton-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-Explore--My--Work-FF5722?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://angeawalabj.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Explore--My--Work-FF5722?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
@@ -93,7 +93,7 @@ Mon approche repose sur trois piliers :
 
 ---
 ## 🚀 Réalisations & Recherche
-> **[Explorer mon Portfolio →](https://ton-lien-portfolio.com)**
+> **[Explorer mon Portfolio →](https://angeawalabj.vercel.app/hub)**
 > <sub><i>Cliquez ici pour explorer mes architectures et mes travaux de recherche.</i></sub>
 ---
 <p align="center">
