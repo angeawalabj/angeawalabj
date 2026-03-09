@@ -129,6 +129,7 @@ Mon approche repose sur trois piliers :
 <p align="center">
   <img height="180em" src="https://github-readme-stats-zeta-rose.vercel.app/api?username=angeawalabj&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="180em" src="https://github-readme-stats-zeta-rose.vercel.app/api/top-langs/?username=angeawalabj&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-zeta-rose.vercel.app/api/top-langs/?username=angeawalabj&layout=compact&theme=tokyonight&exclude_lang=HTML,CSS"/>
 </p>
 
 <p align="center">
@@ -147,4 +148,3 @@ Mon approche repose sur trois piliers :
   📫 <a href="mailto:ange.awala.bj@gmail.com">Contactez-moi pour bâtir demain.</a><br>
   <sub><i>Cliquez sur le lien ci-dessus pour explorer mes architectures et travaux de recherche.</i></sub>
 </p>
----
