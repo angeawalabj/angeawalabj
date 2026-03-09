@@ -129,7 +129,6 @@ Mon approche repose sur trois piliers :
 
 <p align="center">
   <img height="185em" src="https://github-readme-stats-zeta-rose.vercel.app/api?username=angeawalabj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="185em" src="https://github-readme-stats-zeta-rose.vercel.app/api/wakatime?username=angeawalabj&theme=tokyonight&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
