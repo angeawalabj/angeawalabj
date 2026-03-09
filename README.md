@@ -16,15 +16,22 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"/>
 </p>
----
 
 ## 🧠 Vision & Expertise
-Je ne me contente pas de coder ; je modélise. Avec un ancrage profond en **sciences informatiques et mathématiques appliquées**, je conçois des architectures **décentralisées, auto-évolutives et hautement sécurisées**. 
+
+Je ne me contente pas de coder ; je modélise.  
+À l'intersection des **sciences informatiques et des mathématiques appliquées**, je conçois des architectures **distribuées, résilientes et évolutives**.
 
 Mon approche repose sur trois piliers :
-1. **Performance Distribuée :** Optimisation des flux de données et gestion de la charge via des microservices robustes.
-2. **Intégrité Mathématique :** Utilisation de la modélisation pour garantir la scalabilité et la sécurité des systèmes (Web3/IA).
-3. **Clarté Technique :** Capacité à décomposer des systèmes complexes en solutions simples et documentées.
+
+1. **Performance Distribuée :**  
+   Conception de systèmes basés sur des microservices capables d’absorber la charge et de maintenir la performance à grande échelle.
+
+2. **Intégrité Mathématique :**  
+   Utilisation de la modélisation et des principes algorithmiques pour renforcer la **scalabilité**, la **cohérence** et la **sécurité** des systèmes (Web3 / IA).
+
+3. **Clarté Technique :**  
+   Capacité à décomposer des systèmes complexes en architectures simples, maintenables et bien documentées.
 
 ---
 
