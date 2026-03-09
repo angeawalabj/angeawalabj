@@ -89,8 +89,9 @@ Mon approche repose sur trois piliers :
 <p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
 
 ### 📡 Observability & Infrastructure as Code
@@ -127,13 +128,13 @@ Mon approche repose sur trois piliers :
 ## 📊 Analyse de Performance
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-zeta-rose.vercel.app/api?username=angeawalabj&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-zeta-rose.vercel.app/api/top-langs/?username=angeawalabj&layout=compact&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats-zeta-rose.vercel.app/api/top-langs/?username=angeawalabj&layout=compact&theme=tokyonight&exclude_lang=HTML,CSS"/>
+  <img height="180em" src="https://github-readme-stats-zeta-rose.vercel.app/api?username=angeawalabj&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-zeta-rose.vercel.app/api/top-langs/?username=angeawalabj&layout=compact&theme=tokyonight&exclude_lang=HTML,CSS,C++" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angeawalabj&theme=tokyonight" alt="GitHub Streak" />
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=angeawalabj&theme=tokyonight&column=3&margin-w=15&no-bg=true&no-frame=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=angeawalabj&theme=tokyonight" />
 </p>
 
 ---
