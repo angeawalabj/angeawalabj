@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Architecte de Systèmes Distribués | Full-Stack Web3 | Mathématiques Appliquées</b><br>
-  <i>L'intersection de l'élégance mathématique et de la résilience logicielle.</i>
+  <i>Conception d'infrastructures logicielles robustes, distribuées et intelligentes.</i>
 </p>
 
 <p align="center">
@@ -13,7 +13,9 @@
   <a href="mailto:ange.awala.bj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://angeawalabj.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Explore--My--Work-FF5722?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>
 </p>
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"/>
+</p>
 ---
 
 ## 🧠 Vision & Expertise
