@@ -115,11 +115,12 @@ Mon approche repose sur trois piliers :
 ---
 
 ## 📢 Vulgarisation & Transmission
-*Rendre l'invisible compréhensible.* Je m'efforce de traduire les concepts complexes (Blockchain, Consensus, Algorithmique) en documentation et contenus accessibles.
 
-- ✍️ **Documentation Technique :** Rédaction de Whitepapers et guides d'architecture sous **LaTeX**.
-- 💡 **Mentorat & Open Source :** Contributeur actif pour simplifier l'adoption des technologies distribuées.
-- 🎓 **Double ADN :** Ma formation à l'UNSTIM me permet de faire le pont entre la théorie pure et l'implémentation logicielle concrète.
+*Rendre l’invisible compréhensible.* Je traduis les concepts complexes — **Blockchain, Consensus, Algorithmique, Systèmes Distribués** — en contenus clairs et accessibles.
+
+- ✍️ **Documentation Technique :** Rédaction de **whitepapers**, guides d’architecture et tutoriels détaillés, principalement sous **LaTeX**.  
+- 💡 **Mentorat & Open Source :** Contribution active à des projets open-source et accompagnement de développeurs pour simplifier l’adoption des technologies distribuées.  
+- 🎓 **Pont entre théorie et pratique :** Grâce à ma formation en **mathématiques et informatique**, je rends les concepts abstraits compréhensibles et applicables concrètement.
 
 ---
 
@@ -135,11 +136,15 @@ Mon approche repose sur trois piliers :
 </p>
 
 ---
+---
+
 ## 🚀 Réalisations & Recherche
 > **[Explorer mon Portfolio →](https://angeawalabj.vercel.app/hub)**
-> <sub><i>Cliquez ici pour explorer mes architectures et mes travaux de recherche.</i></sub>
----
+> <sub><i>Architectures Web3, systèmes distribués, projets IA & contributions open-source.</i></sub>
+
 <p align="center">
   <b>Concevoir propre, penser scalable, coder intelligent.</b><br>
-  📫 <a href="mailto:ange.awala.bj@gmail.com">Contactez-moi pour bâtir demain.</a>
+  📫 <a href="mailto:ange.awala.bj@gmail.com">Contactez-moi pour bâtir demain.</a><br>
+  <sub><i>Cliquez sur le lien ci-dessus pour explorer mes architectures et travaux de recherche.</i></sub>
 </p>
+---
