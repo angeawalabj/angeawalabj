@@ -137,7 +137,15 @@ Mon approche repose sur trois piliers :
   <img height="180em" src="https://github-readme-stats-zeta-rose.vercel.app/?username=angeawalabj&theme=tokyonight&column=3&margin-w=15&no-bg=true&no-frame=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=angeawalabj&theme=tokyonight" />
 </p>
+<p align="center">
+  <img height="185em" src="https://github-readme-stats-zeta-rose.vercel.app/api?username=angeawalabj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="185em" src="https://github-readme-stats-zeta-rose.vercel.app/api/wakatime?username=angeawalabj&theme=tokyonight&layout=compact&hide_border=true" />
+</p>
 
+<p align="center">
+  <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=angeawalabj&theme=tokyonight&hide_border=true" />
+  <img height="185em" src="https://github-readme-stats-zeta-rose.vercel.app/api/top-langs/?username=angeawalabj&layout=compact&theme=tokyonight&exclude_lang=HTML,CSS,C++&langs_count=6&hide_border=true" />
+</p>
 ---
 ---
 
