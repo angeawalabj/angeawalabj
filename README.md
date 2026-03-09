@@ -66,15 +66,14 @@ Mon approche repose sur trois piliers :
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
-</td>
-
-<td align="center" width="50%">
-
 ### 🧊 3D & Interactive Web
 <p>
 <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
 </p>
+</td>
+
+<td align="center" width="50%">
 
 ### ⛓️ Web3 Ecosystem
 <p>
