@@ -131,9 +131,9 @@ Mon approche repose sur trois piliers :
 </p>
 
 <p align="center">
-  <img height="185em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=angeawalabj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="185em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=angeawalabj&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
 
-  <img height="185em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=angeawalabj&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&exclude_lang=html,css,scss&count_private=true" />
+<img height="185em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=angeawalabj&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&exclude_lang=html,css,scss&count_private=true" />
 </p>
 ---
 ---
