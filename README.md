@@ -127,13 +127,7 @@ Mon approche repose sur trois piliers :
 ## 📊 Analyse de Performance
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=angeawalabj&theme=tokyo-night&area=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="185em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=angeawalabj&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
-
-  <img  height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angeawalabj&theme=tokyonight" />
+  <img  width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angeawalabj&theme=tokyonight" />
 </p>
 ---
 ---
