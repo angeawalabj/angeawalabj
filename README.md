@@ -127,12 +127,13 @@ Mon approche repose sur trois piliers :
 ## 📊 Analyse de Performance
 
 <p align="center">
-  <img height="185em" src="github-readme-stats-h4atm6tyi-ibl-tests-projects.vercel.app/api?username=angeawalabj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=False&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angeawalabj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&show=reviews,discussions_answered,prs_merged,commits" />
 </p>
 
 <p align="center">
-  <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=angeawalabj&theme=tokyonight&hide_border=true" />
-  <img height="185em" src="github-readme-stats-h4atm6tyi-ibl-tests-projects.vercel.app/api/top-langs/?username=angeawalabj&layout=compact&theme=tokyonight&exclude_lang=HTML,CSS,SCSS,MD&langs_count=6&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeawalabj&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&exclude_lang=html,css,scss" />
+  
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=angeawalabj&theme=tokyonight&no-bg=true&no-frame=true&column=3&margin-w=15" />
 </p>
 
 ---
