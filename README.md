@@ -133,7 +133,8 @@ Mon approche repose sur trois piliers :
 <p align="center">
   <img height="185em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=angeawalabj&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
 
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=angeawalabj&theme=tokyonight&no-bg=false&no-frame=true&margin-w=15" />
+  <img src="https://github-readme-streak-stats-five.vercel.app/?user=angeawalabj&theme=tokyonight&hide_border=true" />
+  
 </p>
 ---
 ---
