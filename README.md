@@ -122,18 +122,17 @@ Mon approche repose sur trois piliers :
 - ✍️ **Documentation Technique :** Rédaction de **whitepapers**, guides d’architecture et tutoriels détaillés, principalement sous **LaTeX**.  
 - 💡 **Mentorat & Open Source :** Contribution active à des projets open-source et accompagnement de développeurs pour simplifier l’adoption des technologies distribuées.  
 - 🎓 **Pont entre théorie et pratique :** Grâce à ma formation en **mathématiques et informatique**, je rends les concepts abstraits compréhensibles et applicables concrètement.
-
 ---
 
 ## 📊 Analyse de Performance
 
 <p align="center">
-  <img height="185em" src="https://github-readme-stats-zeta-rose.vercel.app/api?username=angeawalabj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=False&hide_border=true" />
+  <img height="185em" src="github-readme-stats-h4atm6tyi-ibl-tests-projects.vercel.app/api?username=angeawalabj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=False&hide_border=true" />
 </p>
 
 <p align="center">
   <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=angeawalabj&theme=tokyonight&hide_border=true" />
-  <img height="185em" src="https://github-readme-stats-zeta-rose.vercel.app/api/top-langs/?username=angeawalabj&layout=compact&theme=tokyonight&exclude_lang=HTML,CSS,SCSS,MD&langs_count=6&hide_border=true" />
+  <img height="185em" src="github-readme-stats-h4atm6tyi-ibl-tests-projects.vercel.app/api/top-langs/?username=angeawalabj&layout=compact&theme=tokyonight&exclude_lang=HTML,CSS,SCSS,MD&langs_count=6&hide_border=true" />
 </p>
 
 ---
