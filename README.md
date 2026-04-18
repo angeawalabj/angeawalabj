@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ange-awala-57aa1b363/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@angeawala"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://medium.com/@ange.awala.bj"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://github.com/angeawalabj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://angeawalabj.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" /></a>
   <a href="mailto:ange.awala.bj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -44,7 +44,7 @@ La technique sans communication reste enfermée dans les serveurs. Je traduis le
 
 ### Ce que je publie
 
-- ✍️ **Medium** — Articles de vulgarisation hebdomadaires sur les systèmes distribués, l'IA et le cloud. Chaque article part d'un concept technique réel et le rend accessible sans le trahir. → **[Lire sur Medium](https://medium.com/@angeawala)**
+- ✍️ **Medium** — Articles de vulgarisation hebdomadaires sur les systèmes distribués, l'IA et le cloud. Chaque article part d'un concept technique réel et le rend accessible sans le trahir. → **[Lire sur Medium](https://medium.com/@ange.awala.bj)**
 
 - 📄 **Documentation Technique** — Rédaction de whitepapers, guides d'architecture et tutoriels détaillés sous **LaTeX**. Destinés aux équipes qui ont besoin de comprendre avant d'implémenter.
 
@@ -58,7 +58,7 @@ La plupart des architectes expliquent les systèmes distribués avec du jargon. 
 
 ## 🔭 En ce moment
 
-- 📝 Publication hebdomadaire sur **[Medium](https://medium.com/@angeawala)** — vulgarisation systèmes distribués & IA
+- 📝 Publication hebdomadaire sur **[Medium](https://medium.com/@ange.awala.bj)** — vulgarisation systèmes distribués & IA
 - 🎓 Formation **Médiateur Scientifique** en cours — construction du pont entre recherche et grand public
 - 🔬 Recherche appliquée : **théorie des catégories appliquée à la conception de protocoles de consensus**
 - 🛠️ Contribution open-source sur les outils d'architecture distribuée
@@ -163,7 +163,7 @@ La plupart des architectes expliquent les systèmes distribués avec du jargon. 
 
 <p align="center">
   <b>Concevoir propre. Penser scalable. Expliquer clairement.</b><br><br>
-  📝 <a href="https://medium.com/@angeawala">Je vulgarise les systèmes distribués sur Medium</a> — chaque semaine, un concept complexe rendu accessible.<br>
+  📝 <a href="https://medium.com/@ange.awala.bj">Je vulgarise les systèmes distribués sur Medium</a> — chaque semaine, un concept complexe rendu accessible.<br>
   📫 <a href="mailto:ange.awala.bj@gmail.com">Contactez-moi pour construire ou expliquer demain.</a>
 </p>
 
