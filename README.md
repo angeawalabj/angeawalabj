@@ -152,13 +152,6 @@ La plupart des architectes expliquent les systèmes distribués avec du jargon. 
 > <sub><i>Architectures distribuées, projets IA, Web3 & contributions open-source.</i></sub>
 
 ---
-
-## 📊 Activité GitHub
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angeawalabj&theme=tokyonight" />
-</p>
-
 ---
 
 <p align="center">
